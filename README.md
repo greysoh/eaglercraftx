@@ -1,5 +1,6 @@
 # EaglercraftX 1.8
-
+## Info
+This repository was imported from https://gitlab.com/lax1dude/eaglercraftx-1.8, which was running on version `u4`.
 ### Play real Minecraft 1.8 in your browser, currently only supports multiplayer
 
 ![EaglercraftX 1.8 Screenshot Main Menu](https://g.deev.is/eaglercraft/eaglerx-480p.png)
